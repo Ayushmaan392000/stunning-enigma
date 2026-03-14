@@ -1,2 +1,3 @@
 # stunning-enigma
-thisismyfirstgitrepository
+this is my first git repository.
+
